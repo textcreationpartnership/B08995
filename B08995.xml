@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sober reply, on behalf of the people called Quakers, to two petitions against them, (the one out of Norfolk, and the other from Bury in Suffolk) being some brief observations upon them. Published on occasion of Francis Bugg's exposing one of the said petitions in print, and commending the other, &amp;c. With many unjust aggravations and misrepresentations in his late book, falsly stiled A modest defence, &amp;c.</title>
+            <author>Ellwood, Thomas, 1639-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08995</idno>
+            <idno type="OCLC"> 124064174</idno>
+            <idno type="STC">Wing E628A</idno>
+            <idno type="STC">ESTC R174956</idno>
+            <idno type="EEBO-CITATION">124064174</idno>
+            <idno type="OCLC">ocn 124064174</idno>
+            <idno type="VID">192258</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192258)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2909:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sober reply, on behalf of the people called Quakers, to two petitions against them, (the one out of Norfolk, and the other from Bury in Suffolk) being some brief observations upon them. Published on occasion of Francis Bugg's exposing one of the said petitions in print, and commending the other, &amp;c. With many unjust aggravations and misrepresentations in his late book, falsly stiled A modest defence, &amp;c.</title>
+                  <author>Ellwood, Thomas, 1639-1713.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle, in White-Hart-Court in Gracious-Street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author suggested by Wing.</note>
+                  <note>Title within double rules.</note>
+                  <note>This pamphlet was republished using the same imprint and a variant title: A reply, on behalf of the people called Quakers to two petitions against them.</note>
+                  <note>Reproduction of original in the Swarthmore College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bugg, Francis, 1640-1724? --  Modest defence of my book, entitled Quakerism expos'd --  Early works to 1800.</term>
+               <term>Bugg, Francis, 1640-1724? --  Quakerism exposed to publick censure --  Early works to 1800.</term>
+               <term>Quakers --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192258:1" rendition="simple:additions"/>
+            <p>A SOBER REPLY, On Behalf of the People called <hi>Q<g ref="char:V">Ʋ</g>AKERS,</hi> To Two Petitions againſt them, (The One out of <hi>Norfolk,</hi> and the Other from <hi>Bury</hi> in <hi>Suffolk</hi>) Being ſome Brief Obſervations upon them.</p>
+            <p>Publiſhed on Occaſion of <hi>Francis Bugg</hi>'s Expoſing One of the ſaid Petitions in Print, and Commending the Other, <hi>&amp;c.</hi> With many unjuſt Aggravations and Miſrepreſentations in his late Book, falſly ſtiled <hi>A Modeſt Defence,</hi> &amp;c.</p>
+            <q>
+               <p>It is an Honour for a Man to ceaſe from Strife, but every Fool will be medling,</p> 
+               <bibl>Prov. 20.3.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> 1700.</p>
+            <pb facs="tcp:192258:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:192258:2" rendition="simple:additions"/>
+            <head>A Reply, on Behalf of the People called <hi>Quakers,</hi> to Two <hi>Petitions</hi> againſt them, <hi>&amp;c.</hi>
+            </head>
+            <p>THat we may not build too <hi>large</hi> a <hi>Porch</hi> to ſo <hi>ſmall</hi> an <hi>Houſe,</hi> we ſhall only premiſe, That the Chri<g ref="char:EOLhyphen"/>ſtian Religion hath <hi>often Suffered,</hi> but <hi>never taught</hi> or countenanced <hi>Perſecution;</hi> That it was the <hi>Perſecuting Jews,</hi> not the <hi>Perſecuted Apoſtle,</hi> who cry'd <hi>Men of Iſrael, help,</hi> Acts 21.28. That theſe <hi>Petitioners</hi> againſt us, have nothing to Charge us with of <hi>Immora<g ref="char:EOLhyphen"/>lity,</hi> nothing againſt the <hi>Publick Peace,</hi> nothing but what concerns our <hi>Religion:</hi> Which is an implicit Acknow<g ref="char:EOLhyphen"/>ledgment (at leaſt) that they are in the ſame Streight to find out Matter of Accuſation againſt us, that <hi>Daniel</hi>'s Adverſaries were in, to find Matter againſt him; who thereupon ingeniouſly confeſt, <hi>We ſhall not find any Oc<g ref="char:EOLhyphen"/>caſion againſt this</hi> Daniel, <hi>except we find it againſt him con<g ref="char:EOLhyphen"/>cerning the Law of his God,</hi> Dan. 6.5.</p>
+            <p>We begin with the <hi>Norfolk Petition,</hi> as that which (we underſtand) was contrived firſt, and probably led on the other.</p>
+            <p>Petition. <hi>We cannot, without Reſentment, take notice of the great Growth, and daily Increaſe of the</hi> Quakers, <hi>and the Miſchief and Dangers from thence threatning this Nation.</hi>
+            </p>
+            <p>
+               <hi>Obſervation,</hi> We hope we may, without incurring their <hi>Reſentment,</hi> obſerve, That the <hi>Jews</hi> of old took notice, and that not without <hi>Reſentment,</hi> of the <hi>great Growth</hi> and <hi>daily Increaſe</hi> of the <hi>Chriſtians,</hi> in the firſt Age of the ſpread<g ref="char:EOLhyphen"/>ing of the Goſpel, and of the Miſchief and Dangers they apprehended did from thence threaten their Nation, <hi>John</hi> 11.48. Which Miſapprehenſion of theirs, made them bend their Forces againſt the <hi>Innocent Chriſtians,</hi> to Suppreſs, Deſtroy, and Root them out. Whereby
+<pb n="4" facs="tcp:192258:3"/>
+they brought upon Themſelves, and their Nation, the Miſchief and Dangers they feared: God avenging, by the hands of the <hi>Romans,</hi> and their own one againſt another, their Evil Treatment of his Son and Servants.</p>
+            <p>Pet. <hi>'Tis obſervable, with what reſtleſs Zeal their deluding Teachers—ramble into all parts of theſe Kingdoms.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> 'Tis probable, the <hi>little Zeal</hi> (unleſs for Mainte<g ref="char:EOLhyphen"/>nance) the <hi>Petitioners</hi> have obſerved in their own <hi>over-reſted</hi> Teachers, makes the Zeal of thoſe they Petition againſt ſo obſervable to them. But they may do well alſo to obſerve (which if they will not, it may be hoped, They to whom they have Petitioned, will) how much this Charge, of <hi>Reſtleſs Zeal,</hi> renders us like unto the <hi>Apoſtles</hi> and Primitive Chriſtian <hi>Teachers,</hi> whoſe <hi>Reſtleſs Zeal</hi> would not ſuffer them to <hi>ſit</hi> down, and <hi>reſt</hi> in a Fat Benefice (with a <hi>Curat</hi> to perform the Service for them:) But made them <hi>Travel</hi> into moſt of the then Civilized Parts of the World, as the <hi>Acts of the Apoſtles,</hi> and <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical Hiſtories</hi> ſhew. And though their Enemies then were more modeſt than to call it <hi>Rambling;</hi> yet they failed not to call them <hi>Deluding</hi> Teachers; as theſe do us.</p>
+            <p>Pet. <hi>And (as we ſuſpect) many Romiſh Emiſſaries under their Diſguiſe.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> The Petitioners ſhould have done well to have given the Ground of this <hi>Suſpicion</hi> of theirs, if they had any to give, that it might have been examined. But to <hi>Suggeſt</hi> (for it is probable this came, è <hi>Suggeſto,</hi> out of the <hi>Pulpit:</hi> For <hi>Juſtices,</hi> we hope, would deal more <hi>juſtly</hi>) ſo <hi>Scandalous</hi> a Matter, upon a <hi>bare Suſpicion,</hi> with<g ref="char:EOLhyphen"/>out aſſigning any Ground for it, is (to ſpeak modeſtly of it) an <hi>Evil-Surmiſing,</hi> and <hi>againſt Charity:</hi> For <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> (we are aſſured, 1 <hi>Cor.</hi> 13.5.) <hi>thinks no Evil.</hi> And ſince <hi>Charity</hi> is ſo excellent a Chriſtian Vertue, as to be preferr'd to both <hi>Faith</hi> and <hi>Hope,</hi> verſe 13. We are ſorry
+<pb n="5" facs="tcp:192258:3"/>
+to find <hi>ſo little Charity</hi> among the Juſtices and Grand Jurors of <hi>Norfolk.</hi> This Suſpicion of <hi>Romiſh Emiſſaries</hi> going under the Diſguiſe of <hi>Quakers,</hi> is indeed an <hi>old Scandal</hi> rais'd by <hi>our profeſt Enemies,</hi> the Prieſts, above Forty Years ago, and by them induſtriouſly ſpread, and kept up ever ſince, on purpoſe to Traduce us to the bet<g ref="char:EOLhyphen"/>ter ſort of People. But is it not ſtrange, that if this had been true, not one <hi>ſingle Inſtance</hi> could be given, not <hi>one Proof</hi> made in all this time, of one Romiſh Emiſſary found among the <hi>Quakers!</hi> This alone is enough to baffle the Slander: which it hath done already with conſiderate Perſons. Therefore, without taking further notice of it here, we will conclude with Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi>'s Motto (uſed while ſhe was Princeſs, Perſecuted and a Priſoner) <hi>viz. <hi>Much ſuſpected by me: Nothing proved can be.</hi>
+               </hi>
+            </p>
+            <p>Pet. <hi>And boldly ſpread their</hi> Venemous <hi>Doctrines every where.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> This <hi>Venemous</hi> Epithet ſo ill becomes <hi>Juſtices</hi> and <hi>Grand Jurors,</hi> that we are not willing to think it theirs; but rather impoſed on them by ſome of their <hi>dictating Teachers.</hi> But paſſing by the <hi>Venome</hi> of it, we cannot but obſerve here likwiſe, how much they make us, even in this alſo, to reſemble thoſe, whom we deſire and labour to imitate, the Apoſtles of our Lord. Whoſe <hi>Boldneſs,</hi> in Aſſerting the Chriſtian Faith, and <hi>Spreading</hi> the Doctrine of their Holy Religion (which, no doubt, their <hi>Oppoſers,</hi> the <hi>Prieſts</hi> of that Age, and ſuch <hi>Rulers</hi> as thoſe Prieſts could influence) thought to be <hi>wrong,</hi> though they ſeem to have been <hi>more modeſt,</hi> than to call it <hi>Venemous</hi>) made, even their Adverſaries <hi>Marvel;</hi> who yet were ſo inge<g ref="char:EOLhyphen"/>nuous as to impute their Boldneſs to their having been <hi>with Jeſus,</hi> Acts 4.13.</p>
+            <pb n="6" facs="tcp:192258:4"/>
+            <p>Pet. <hi>Attempting to infect and ſhake the Minds of weak</hi> Proteſtants.</p>
+            <p>
+               <hi>Obſ.</hi> Had not thoſe Proteſtants <hi>weak Teachers,</hi> they would not be ſuch <hi>weak Proteſtants.</hi> Nor will it, peradventure, upon due Conſideration, be found a Diſ-ſervice in the <hi>Quakers,</hi> if by their <hi>Zealous Preaching,</hi> they excite thoſe Teachers (how unwillingly ſoever) to be <hi>more Zealous,</hi> more Aſſiduous, more Laborious and Diligent in Preach<g ref="char:EOLhyphen"/>ing, to ſtrengthen their <hi>weak Hearers.</hi>
+            </p>
+            <p>Pet. <hi>And Aſſuming Rules of Diſcipline, Power in matters of Religion, and Forms of Government, Repugnant to the Eſta<g ref="char:EOLhyphen"/>bliſh'd Laws of this Kingdom, contrary to the very Acts of Toleration, and not allow'd to any other Diſſenters.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> We preſume it is intended, in all the Branches of this manifold Charge <hi>[with reſpect to themſelves only,]</hi> and we hope it will be ſo underſtood; That if we aſſume <hi>Rules of Diſcipline</hi> in Church Matters, they are for <hi>our ſelves only;</hi> Power in Matters of Religion, for and amongſt <hi>our ſelves only.</hi> As for <hi>Forms</hi> of <hi>Government,</hi> though they are Am<g ref="char:EOLhyphen"/>biguous Words, and ſuch as we do not uſe amongſt, or of, our ſelves: Yet as there ought to be <hi>Government</hi> in every <hi>Religious,</hi> as well as <hi>Civil,</hi> Society; and a Form, or Forms of ſuch Government: So we know of no Form of Government in our Religious Society, no Rules of Diſcipline, no Power in Matters of Religion, among us, that is Repugnant to the Eſtabliſh'd Laws of this King<g ref="char:EOLhyphen"/>dom, relating only to <hi>Civil</hi> Matters, nor contrary to the <hi>Acts</hi> for <hi>Toleration.</hi> Nor (with Submiſſion to our Su<g ref="char:EOLhyphen"/>periours) do we ſee, how thoſe Acts could be truly called <hi>Acts of Toleration</hi> to Diſſenters, if they did not <hi>Tolerate</hi> each ſort of Diſſenters, to <hi>Aſſume Rules of Diſcipline, Power</hi> in Matters of <hi>Religion,</hi> and Forms of <hi>Church</hi> Go<g ref="char:EOLhyphen"/>vernment, <hi>for and amongſt themſelves,</hi> while nothing is thereby done Repugnant to the <hi>Publick Peace.</hi> Nor do we underſtand, but that the ſame is allow'd to, and practic'd by all other Proteſtant Diſſenters.</p>
+            <pb n="7" facs="tcp:192258:4" rendition="simple:additions"/>
+            <p>Pet. <hi>Vouching in all their Actions Divine Inſpiration for their Warrant, and the Indulgence of the Government for their Indempnity.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> In <hi>All their Actions,</hi> is <hi>too large</hi> an Expreſſion, and ſhews the Petitioners ſpake <hi>by rote.</hi> But if we vouch Divine Inſpiration for our Warrant in <hi>ſome things,</hi> which relate <hi>more immediately</hi> to the <hi>Worſhip</hi> and <hi>Service</hi> of <hi>God</hi> (and undertake withal to make appear, that That In<g ref="char:EOLhyphen"/>ſpiration is not diſagreeable to the Divine Teſtimonies recorded in the Holy Scriptures) we hope our <hi>Warrant</hi> will not be diſliked, for being Grounded on <hi>Inſpiration,</hi> nor that <hi>Inſpiration,</hi> for being <hi>Divine:</hi> And that the <hi>In<g ref="char:EOLhyphen"/>dulgence</hi> of ſo Indulgent a Government will be ſufficient to <hi>Indempnifie</hi> us, in our <hi>Peaceable</hi> Performance thereof.</p>
+            <p>Pet. <hi>How apparently their Blaſphemous Books, and Pernicious Principles, tend to ſubvert the Fundamentals of Chriſtia<g ref="char:EOLhyphen"/>nity, and undermine the Civil Government, are ſufficiently Demonſtrable.</hi>
+            </p>
+            <p>
+               <hi>Obſ. Demonſtrable!</hi> Not yet <hi>Demonſtrated</hi> then, it ſeems, tho' for theſe Forty Years, and more, it has been en<g ref="char:EOLhyphen"/>deavoured. <hi>Hard</hi> Words and <hi>Ill</hi> Names may eaſily be put upon the <hi>beſt Books</hi> and <hi>Principles.</hi> And there is no Book or Principle, which may not, by <hi>Perverſion</hi> and <hi>Miſconſtruction,</hi> be made to look and ſound <hi>Ill.</hi> But ſure we are (and always ready to make appear) that neither are our <hi>Books</hi> Blaſphemous, nor our <hi>Principles</hi> Pernici<g ref="char:EOLhyphen"/>ous. The <hi>Fundamentals</hi> of <hi>Chriſtianity</hi> we heartily Own, and Aſſert as <hi>Boldly</hi> and Vigorouſly as any. And how far we have been from <hi>undermining the Civil Govern<g ref="char:EOLhyphen"/>ment,</hi> our Practice, well known throughout theſe King<g ref="char:EOLhyphen"/>doms, is the beſt Demonſtration.</p>
+            <p>Pet. <hi>The Publiſhing whereof, by pretended Permiſſion of the Government, is of moſt dangerous Conſequence.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> Pray give the <hi>Government</hi> leave to judge of that. So long as the <hi>Church</hi> of <hi>Rome</hi> could ſtop the Publiſhing of
+<pb n="8" facs="tcp:192258:5"/>
+any <hi>Books</hi> or <hi>Principles,</hi> but her own, the Chriſtian World lay very Snug, in a deep <hi>Sleep</hi> of <hi>Darkneſs</hi> and Profound <hi>Ignorance,</hi> which ſhe had lul'd it into, which was what ſhe deſired. And if the firſt <hi>Reformers</hi> had been debarr'd the Liberty of <hi>Publiſhing</hi> their <hi>Books,</hi> and <hi>Principles,</hi> the <hi>Reformation</hi> muſt either not have been be<g ref="char:EOLhyphen"/>gun, or greatly retarded in the carrying of it on, and <hi>Popery</hi> might have prevailed ſtill. It is a ſure <hi>Maxim,</hi> that <hi>Truth is Strongeſt.</hi> And therefore, they who have <hi>Truth on their ſide,</hi> and who know their own Principles to be <hi>Sound,</hi> need not fear the Publiſhing of Principles by o<g ref="char:EOLhyphen"/>thers; for if thoſe Principles publiſh'd by others be <hi>true,</hi> they co-operate with theirs; and therein they have Cauſe to rejoyce: If <hi>falſe,</hi> they have thereby a fair Occaſion given them, by expoſing and confuting the <hi>Er<g ref="char:EOLhyphen"/>rors</hi> thereof, to illuſtrate more clearly, and eſtabliſh more firmly, the true Principles aſſerted by themſelves; and for that they have no cauſe to be Sorry.</p>
+            <p>Thus far the Petition out of <hi>Norfolk,</hi> the <hi>Prayer</hi> of which ſhall be conſidered together with that from <hi>Bury,</hi> which will help to explain one another.</p>
+            <p>The Petition from <hi>Bury</hi> ſpeaks in the Name of <hi>The Alderman, Aſſiſtant Juſtice, chief Burges and Burgeſſes of the Common Council, in behalf of themſelves and other the Inhabitants of that Burrough;</hi> And in it they ſay,</p>
+            <p>Pet. <hi>That we, conſidering all Ancient Haereſies, which have vexed both Church and State, were never ſo formidable in their Riſe and Progreſs, as are the Quakers.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> Are then the <hi>Alderman</hi> and <hi>Burgeſſes</hi> of <hi>Bury</hi> ac<g ref="char:EOLhyphen"/>quainted with, and verſed in, <hi>All Ancient Haereſies?</hi> Or do they rely upon the <hi>aſſiſtance</hi> of their <hi>aſſiſtant Juſtice?</hi> Or do both They and He take this upon truſt from ſome not very truſty <hi>Parſon.</hi> Have they read, examined, conſi<g ref="char:EOLhyphen"/>dered the Vexation, the Spoil, the Havock, of both E<g ref="char:EOLhyphen"/>ſtates and Lives, and almoſt Deſolation, made in both
+<pb n="9" facs="tcp:192258:5"/>
+Church and State, by the <hi>Arian Haereſie</hi> alone, ſo tragi<g ref="char:EOLhyphen"/>cally ſet forth by <hi>Ruffinus, Socrates Scholaſticus, Theodo<g ref="char:EOLhyphen"/>rit</hi> and <hi>Sozomen</hi> in their <hi>Eccleſiaſtical Hiſtories?</hi> Or if they have, can they, without bluſhing, ſay, The <hi>Arri<g ref="char:EOLhyphen"/>an Haereſie,</hi> and <hi>all</hi> other <hi>Ancient Haereſies,</hi> were never ſo formidable in their Riſe and Progreſs, as are the Qua<g ref="char:EOLhyphen"/>kers? Who are the Quakers <hi>formidable</hi> to, unleſs to the <hi>Prieſts?</hi> And wherein to them? Unleſs the Quakers <hi>Zeal</hi> (which they ſo complain of) makes them fear, that they muſt both <hi>Preach better</hi> and <hi>Live better,</hi> or elſe they will be in danger to loſe the <hi>beſt</hi> of their Hearers, and perhaps with them, what they <hi>value more</hi> than them, <hi>ſome of their Maintenance?</hi> But they ſay,</p>
+            <p>Pet. <hi>We have too juſt a Cauſe of dreading the Subverſion of our Government by them, if not carefully prevented and ſuppreſſed.</hi>
+            </p>
+            <p>
+               <hi>Obſ. Our Government!</hi> What do they mean, The Go<g ref="char:EOLhyphen"/>vernment of the Burrough of <hi>Bury St. Edmonds</hi> by the <hi>Al<g ref="char:EOLhyphen"/>dermen,</hi> aſſiſtant <hi>Juſtice,</hi> chief <hi>Burgeſs</hi> and <hi>Burgeſſes</hi> of the <hi>Common Council</hi> there? We never underſtood that any Quaker hath attempted to meddle with <hi>their</hi> Go<g ref="char:EOLhyphen"/>vernment, or intrude into it; but rather, that ſome have <hi>declin'd</hi> it, when invited thereunto. If they mean the <hi>Government of England,</hi> we hope they will not ſo <hi>appropriate</hi> it to themſelves, as to exclude their <hi>Fellow-Subjects</hi> from a Share in the <hi>Care, Support</hi> and <hi>Preſerva<g ref="char:EOLhyphen"/>tion</hi> thereof; which we (and all other Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters) have as much reaſon as they (with reſpect to our Eſtates, Liberties and Lives) to wiſh and ſeek the Welfare and Safety of. And we humbly appeal to the <hi>Governours</hi> themſelves, whether we have given any juſt Cauſe, by our Carriage, Deportment and Behaviour, to and under the Government, for any to <hi>Dread</hi> the Sub<g ref="char:EOLhyphen"/>verſion of the Government by us.</p>
+            <pb n="10" facs="tcp:192258:6"/>
+            <p>Pet. <hi>Being in their Clandeſtine Conſtitutions oppoſite to the Condition of our eſtabliſhed Polity.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> What they mean, by <hi>Clandeſtine Conſtitutions,</hi> we know not; nor what, by the <hi>Condition of their eſtabliſhed Polity:</hi> But this we know, that as we have nothing which we call <hi>Conſtitutions;</hi> ſo neither any thing that is <hi>Clandeſtine,</hi> or done in a <hi>Clandeſtine</hi> way among us.</p>
+            <p>Pet. <hi>And in their Principles of Faith Anti-chriſtian.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> So did the Church of <hi>Rome</hi> object to the <hi>Proteſtants</hi> in general upon the <hi>Reformation,</hi> as Bp. <hi>Jewel,</hi> in his <hi>Apo<g ref="char:EOLhyphen"/>logy</hi> for the Church of England, obſerves, <hi>Clamant hodie paſſim</hi> (ſays he, p. 7.) <hi>Nos omnes eſſe Haereticos, diſceſſiſ<g ref="char:EOLhyphen"/>ſe</hi> à <hi>fide,</hi> &amp;c. <hi>They cry out now a-days, That we are all Hae<g ref="char:EOLhyphen"/>reticks, That we are departed from the Faith,</hi> &amp;c. But if that was a <hi>falſe Charge</hi> againſt them; we are ſure, this is <hi>not a true Charge</hi> againſt us. For we ſincerely and heartily own all that is written in the Holy Scriptures concerning <hi>Chriſt,</hi> with reſpect to his <hi>Conception, Birth, Life, Miracles, Doctrines, Sufferings, Death, Burial, Re<g ref="char:EOLhyphen"/>ſurrection, Aſcention, Mediation</hi> and future <hi>Coming to Judgment.</hi> Which we take to be the Sum of true Chri<g ref="char:EOLhyphen"/>ſtian Faith; and which whoſoever rightly believes, ought not (we think) to be accounted <hi>Anti-chriſtian</hi> in Principles of Faith.</p>
+            <p>Pet. <hi>Of Government Anti-monarchical.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> One would think this <hi>Arrow</hi> alſo had been taken out of the <hi>Popiſh</hi> Quiver againſt <hi>Proteſtants,</hi> ſo exactly does it reſemble what the ſame <hi>Jewell,</hi> in the ſame place, ſays, the Papiſt charged them withal. Where, having reci<g ref="char:EOLhyphen"/>ted a large Beadroll of particular Slanders caſt upon them, <hi>Clamant</hi> (ſays he) <hi>nos id agere et querere, ut Mo<g ref="char:EOLhyphen"/>narchiae et Regnorum Status evertantur,</hi> &amp;c. <hi>They cry, that we do theſe things, with purpoſe thereby to overturn Monar<g ref="char:EOLhyphen"/>chies and the States of Kingdoms.</hi> We doubt not but this was <hi>unduly</hi> charged upon them. But nothing could
+<pb n="11" facs="tcp:192258:6"/>
+be more <hi>falſly</hi> ſuggeſted againſt us, whoſe <hi>avowed Principle</hi> and <hi>known Practice,</hi> it has always been to yield a peacea<g ref="char:EOLhyphen"/>ble and quiet <hi>Subjection</hi> to the Powers which God hath ſet over us.</p>
+            <p>Pet. <hi>In point of Doctrine Anti-Scriptural.</hi>
+            </p>
+            <p>Obſ. <hi>We deny that;</hi> and are ready to undertake the Proof of every Doctrine we hold, by and from the Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p>Pet. <hi>And in Practices Illegal.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> This alſo, if it relate to <hi>Civil</hi> matters, we deny, as <hi>utterly falſe;</hi> and may, we hope with modeſty; ſay, That no People are more <hi>conformable to the Laws,</hi> in things <hi>Civil,</hi> than we. And if it relate to <hi>Religious</hi> Per<g ref="char:EOLhyphen"/>formances, as it ſeems to do, by the words next follow<g ref="char:EOLhyphen"/>ing, <hi>viz. [Having their Weekly, Monthly, Quarterly and Yearly Meetings.]</hi> We ſhall need to ſay no more to it but this, That if we, and other Diſſenters, could have <hi>actually</hi> comply'd with whatſoever the Laws required <hi>in Matters of Religion,</hi> there would not have been <hi>room</hi> for <hi>Indulgence,</hi> or <hi>need</hi> of an Act of <hi>Toleration.</hi>
+            </p>
+            <p>Pet. <hi>Having their Weekly, Monthly, Quarterly and Year<g ref="char:EOLhyphen"/>ly Meetings, which we cannot but reaſonably believe tend, not only to the Subverſion of our Laws, but of our Religion alſo, to us of greater concerns than our Lives.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> To <hi>Believe</hi> is one thing; to believe <hi>reaſonably</hi> (or to have <hi>Reaſon</hi> to believe, is another thing: Which if theſe Petitioners pretend to have, they ſhould (if they expected to be believed) have aſſigned the Reaſons of their ſo <hi>believing.</hi> Well known it is to the Nation in ge<g ref="char:EOLhyphen"/>neral, and to the Government in particular, that we have had Weekly, Monthly, Quarterly and Yearly Meetngs (and thoſe <hi>the ſame</hi> that now we have, and for the ſame Services) many Years before the Government was pleaſ<g ref="char:EOLhyphen"/>ed to grant the preſent Indulgence; yea, and that in the times of the greateſt Troubles, and hoteſt Perſecutions:
+<pb n="12" facs="tcp:192258:7"/>
+Which was an Evidence, <hi>beyond bare ſaying ſo,</hi> That our Religion was of greater Concern to us than our Lives. But what one ſingle Act or thing have any, or all of thoſe Meetings of ours produced, in all this time, that has tended to the <hi>Subverſion</hi> of the Laws, or Eſtabliſhed Re<g ref="char:EOLhyphen"/>ligion? Do not both the one, and the other, <hi>ſtand</hi> now, at this very day, as <hi>Safe</hi> and <hi>Firm</hi> as ever they did, at leaſt for us? Can it reaſonably be ſuppoſed, that if thoſe Meetings of ours had ſo <hi>dangerous</hi> a Tendency, as to <hi>Sub<g ref="char:EOLhyphen"/>vert</hi> the Laws and Religion of the Nation, the <hi>Piercing</hi> Eye of the <hi>Government</hi> ſhould not ſee it as well, and as ſoon, as the <hi>Aldermen</hi> and <hi>Burgeſſes</hi> of <hi>Bury?</hi> How come they, now all of a ſudden, to be ſo <hi>Eagle-Ey</hi>'d, to pretend to ſee that, which <hi>their Betters</hi> (and who have much <hi>better</hi> Advantages for ſeeing) could never yet ſee! For can it be imagined, that if our <hi>Governours</hi> had ſeen, or ſuſpected, our Meetings to have ſo <hi>Evil</hi> and <hi>Dangerous</hi> a Tendency, as is here Suggeſted, they would ſo Propiti<g ref="char:EOLhyphen"/>ouſly have <hi>Indulged thoſe Meetings,</hi> and granted us a <hi>To<g ref="char:EOLhyphen"/>leration</hi> thus to hold them: We wiſh theſe Petitioners would think well of this; and conſider whether it was <hi>decent</hi> for the <hi>Aldermen</hi> and <hi>Burgeſſes</hi> of <hi>Bury</hi> thus to <hi>Im<g ref="char:EOLhyphen"/>peach</hi> the <hi>Wiſdom</hi> and <hi>Conduct</hi> of the <hi>Government.</hi>
+            </p>
+            <p>Hitherto they have ſpoken in the <hi>Accuſative</hi> Caſe: They now turn to the <hi>Vocative,</hi> Invoking the Parliament againſt us. As therefore we have made brief Obſerva<g ref="char:EOLhyphen"/>tions on the Charges: Let us now, as briefly, take notice of the <hi>Prayer</hi> in each Petition; which we choſe to con<g ref="char:EOLhyphen"/>ſider together, becauſe one ſeems to explain the oth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>That out of <hi>Norfolk</hi> muſt be acknowledged to ſpeak the more modeſtly of the two. For it Prays the Houſe of Commons, <hi>To take theſe things</hi> (the Charges in the Bo<g ref="char:EOLhyphen"/>dy of the Petition mentioned) <hi>into Conſideration, that the ſaid Principles and Practices may be ſtrictly Examined, and Cenſured, or Suppreſt, as they ſhall appear to deſerve, and as
+<pb n="13" facs="tcp:192258:7"/>
+in their great Wiſdom ſhall ſeem expedient.</hi> Nor is it whol<g ref="char:EOLhyphen"/>ly deſtiſtute of ſome <hi>Shew</hi> of Tenderneſs towards us: For it prays This may be done, <hi>With whatſoever Tender<g ref="char:EOLhyphen"/>neſs to the Perſons and Eſtates of theſe People.</hi> But as it can hardly be conceived, how <hi>Principles</hi> and <hi>Practices</hi> flowing therefrom (eſpecially where <hi>Divine Inſpiration,</hi> as theſe Petioners ſay, is <hi>vouched for Warrant thereof</hi>) can be <hi>Suppreſt,</hi> without exerciſing great <hi>Cruelty</hi> (the <hi>Op<g ref="char:EOLhyphen"/>poſite</hi> to <hi>Tenderneſs</hi>) on the <hi>Perſons</hi> or <hi>Eſtates</hi> of the People, whoſe Principles and Practices they are: So, if the <hi>Prayer</hi> of the other <hi>Petition</hi> from <hi>Bury</hi> (which was Formed af<g ref="char:EOLhyphen"/>ter this, and comes from their near Neighbours) may paſs for a <hi>Comment</hi> upon the <hi>Norfolk-Text,</hi> it will not be very difficult to find, what, in the ſofter <hi>Norfolk</hi> Di<g ref="char:EOLhyphen"/>alect, is meant by <hi>Suppreſſing our Principles and Practices.</hi> For the <hi>Alderman</hi> and <hi>Burgeſſes</hi> of <hi>Bury</hi> ſay, <hi>We there<g ref="char:EOLhyphen"/>fore, oblig'd in Duty to God and our Country, do humbly pray your timely Conſideration of our Jealouſies, and remove our Fears; if not by totally Suppreſſing, yet at leaſt by pre<g ref="char:EOLhyphen"/>venting their after Growth and Increaſe amongſt us.</hi> Here, after an acknowledgment, that all thoſe High Charges, exhibited againſt us in the <hi>Petition,</hi> are grounded but upon their own (groundleſs) <hi>Jealouſies,</hi> they (how man<g ref="char:EOLhyphen"/>nerly, let others judge) offer the Parliament <hi>Hobſon's Choice,</hi> either <hi>totally to Suppreſs us,</hi> or at leaſt to <hi>prevent our after Growth and Increaſe;</hi> which perhaps cannot be done, without <hi>totally</hi> ſuppreſſing us; or if it could, muſt needs tend to a <hi>total Suppreſſing</hi> of us. Now if they who have declared <hi>their Religion to be of greater Concern to them than their Lives,</hi> could find in their Hearts to have ſo much Charity for their Neighbours, as to admit <hi>our Religion to be of greater Concern to us than our Lives</hi> (which we think we have given a <hi>full proof</hi> of, to ſay no more, as ever they have done) they might thence reaſonnably conclude, that we will part with
+<pb n="14" facs="tcp:192258:8"/>
+our <hi>Lives,</hi> rather than with our <hi>Religion;</hi> and that there is no way <hi>totally to Suppreſs us,</hi> but by <hi>Cut<g ref="char:EOLhyphen"/>ting our Throats,</hi> or <hi>Knocking out our Brains:</hi> Which muſt therefore be ſuppoſed to be their Meaning. And would they have the <hi>Honourable</hi> the <hi>Commons</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in <hi>Parliament</hi> Aſſembled, undertake this Inhumane Piece of <hi>Butchery,</hi> to <hi>defile</hi> their hands in the <hi>innocent Blood</hi> of ſo many <hi>Thouſands</hi> of harmleſs, peaceable and induſtrious People, who are their <hi>Fellow-Citizens,</hi> and <hi>Fellow-Commoners,</hi> and by the <hi>Suffrages</hi> of ſome of whom, many of themſelves were <hi>Elected</hi> into that Honourable Society; and to Act, or Enact, ſo Barbarous a Trage<g ref="char:EOLhyphen"/>dy, only to <hi>remove</hi> the groundleſs <hi>Fears</hi> of a few <hi>Jealous</hi>-Headed <hi>Aldermen</hi> and <hi>Burgeſſes</hi> of <hi>Bury;</hi> who ſeem to have forgotten what is written of ſome (whom they in this too nearly reſemble) who were ſaid to have been <hi>in great Fear, where no</hi> (cauſe of) <hi>Fear was?</hi> Pſal. 53.5.</p>
+            <p>They cloſe their Petitions; That out of <hi>Norfolk,</hi> thus.</p>
+            <p>Petit. <hi>That the true Chriſtian Religion may be preſer<g ref="char:EOLhyphen"/>ved from Popiſh Superſtition, and unpolluted with Enthu<g ref="char:EOLhyphen"/>ſiaſtical Innovation.</hi>
+            </p>
+            <p>That from <hi>Bury,</hi> thus: <hi>That our Poſterity may un<g ref="char:EOLhyphen"/>troubled live, by this early Care of our Laws and Liberties, and we enjoy the wiſht-for Happineſs of a Peaceful life.</hi>
+            </p>
+            <p>
+               <hi>Obſ.</hi> To the Firſt we ſay, It is ſtrange they ſhould fear the <hi>Chriſtian Religion</hi> ſhould be <hi>polluted</hi> with <hi>Po<g ref="char:EOLhyphen"/>piſh Superſtitions</hi> by the Quakers, who, of all that go under the Proteſtant Name, are generally acknowledged to be <hi>furtheſt removed</hi> from, and moſt averſe to <hi>Popiſh Superſtitions;</hi> and whoſe great Objection to thoſe of o<g ref="char:EOLhyphen"/>ther Perſuaſions has always been, their not having <hi>throughly enough</hi> relinquiſh'd Popiſh Superſtitions. And for <hi>Enthuſiaſtical Innovations;</hi> as we do not own the word in that ſenſe, in which they <hi>abuſively</hi> apply it
+<pb n="15" facs="tcp:192258:8"/>
+to us (tho' <hi>Divine Inſpiration,</hi> or God's ſpeaking by his Spirit in the Heart of man, we do own) ſo we always offer our <hi>Doctrines</hi> and <hi>Principles</hi> to be <hi>Examined</hi> by the Holy Scriptures; which were written by <hi>Divine Inſpira<g ref="char:EOLhyphen"/>tion,</hi> and are beſt underſtood by the Inſpiration of the <hi>ſame Spirit</hi> by which they were written.</p>
+            <p>To the Second we ſay, We deſire, as well as they, that their Poſterity may live untroubled: But we think they might have done well to have conſidered, that <hi>we have Poſterity,</hi> as well as they; and the like Inducements from natural Affection, to wiſh that our Poſterity may live untroubled as they for theirs. Sure we are, and it is but too obvious, that we have more cauſe to apprehend Trouble and Danger too, to our Poſterity from them and theirs, than they or theirs from us or ours; For tho' we have done nothing, ſince we were a People, that might either give Trouble to them, or threaten it to their Poſterity; they ſtick not here openly to propoſe, and ſeek the <hi>Ruin</hi> and <hi>Extirpation</hi> of both <hi>us</hi> and <hi>our Poſteri<g ref="char:EOLhyphen"/>ty.</hi> They deſire they may enjoy the wiſht-for Happineſs of a Peaceful Life. We envy it them not: But God forbid they ſhould <hi>Swim</hi> into it through a <hi>Sea</hi> of <hi>Innocent Blood.</hi> Can they find no way to the wiſht-for Happineſs of a Peaceful Life, but by the <hi>Deſtruction</hi> of their <hi>Fellow-Subjects</hi> and <hi>Peaceable</hi> Neighbours? Had not <hi>Self-love</hi> (to ſay no worſe) been more prevalent with them (or with their <hi>Envious</hi> Guides, who probably have anima<g ref="char:EOLhyphen"/>ted them to theſe Malicious Counſels) than <hi>Chriſtian Cha<g ref="char:EOLhyphen"/>rity</hi> (which ſeeks the Good and Happineſs of all, and teaches to love our Neighbours as our ſelves) they would have been Content, that <hi>we alſo ſhould enjoy the wiſht-for Happineſs of a Peaceful Life.</hi> But ſince they are ſo <hi>uncha<g ref="char:EOLhyphen"/>ritable</hi> to <hi>grudg</hi> us that, and ſo <hi>unchriſtian</hi> to ſeek to <hi>be<g ref="char:EOLhyphen"/>reave us of it;</hi> We humbly addreſs our ſelves, in the firſt place, to Almighty God <hi>(the ſure Refuge of the Righ<g ref="char:EOLhyphen"/>teous)</hi>
+               <pb n="16" facs="tcp:192258:9"/>
+who knows the <hi>Innocency</hi> even of our <hi>Thoughts:</hi> And in the next place, to our <hi>Governours,</hi> the <hi>Witneſſes</hi> as well as <hi>Judges</hi> of our <hi>Actions;</hi> unto whom, with hum<g ref="char:EOLhyphen"/>ble Confidence, we appeal in the later, as unto God in the former; Hoping, that the ſame <hi>Divine Goodneſs,</hi> which moved the Government to grant this <hi>favourable Indulgence</hi> and <hi>Toleration,</hi> will incline and prevail upon you to <hi>con<g ref="char:EOLhyphen"/>tinue it,</hi> both to us, and all other <hi>Proteſtant Diſſenters,</hi> to whoſe <hi>intended Ruin</hi> alſo, we look upon this <hi>Aſſault</hi> up<g ref="char:EOLhyphen"/>on us to be but the <hi>Praeludium,</hi> that under the <hi>Protection</hi> of this <hi>Propitious Government,</hi> we may <hi>lead a quiet and peaceable Life in all Godlineſs and Honeſty, which is good and acceptable in the ſight of God our Saviour,</hi> 1 Tim. 2.2, 3. And may thence have the Obligation of <hi>Gratitude</hi> added to that of <hi>Duty,</hi> not only to <hi>pray</hi> for, but, in our ſeveral Capacities, to <hi>advance</hi> and <hi>promote</hi> the Intereſt, Safety and Proſperity of this Government and Nation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
